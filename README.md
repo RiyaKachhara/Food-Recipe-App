@@ -1,6 +1,6 @@
 # Food Recipe App - React Native
 
-https://github.com/user-attachments/assets/073c0f76-ad9c-451d-9e05-6847e15a1cf6
+https://github.com/user-attachments/assets/4d7fc20d-c30c-4834-8ce3-77b42c38b4f5
 
 ## Overview
 
